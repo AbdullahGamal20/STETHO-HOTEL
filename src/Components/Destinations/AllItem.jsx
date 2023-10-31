@@ -8,7 +8,7 @@ function AllItem() {
     <>
       <section className="gallery desi mtop">
         <div className="container">
-          <div className="content grid destination_content">
+          <div className="content  destination_content">
             {items.map((item) => {
               return <Dcard key={item.id} item={item} />;
             })}

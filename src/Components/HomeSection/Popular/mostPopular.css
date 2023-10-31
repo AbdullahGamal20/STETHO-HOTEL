@@ -1,6 +1,7 @@
 .popular {
   position: relative;
 }
+
 .popular::after {
   content: "";
   width: 100%;
@@ -23,6 +24,7 @@
   border-radius: 5px;
   margin: 10px;
 }
+
 .popular .image {
   position: relative;
 }
@@ -31,6 +33,7 @@
   bottom: 0;
   color: white;
   margin: 20px;
+
 }
 .popular .image i label {
   margin-left: 10px;

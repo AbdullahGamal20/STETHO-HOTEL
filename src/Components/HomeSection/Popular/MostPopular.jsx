@@ -12,7 +12,7 @@ function MostPopular() {
             <div className="line"></div>
           </div>
 
-          <div className="content">
+          <div className="content ">
             <Cards />
           </div>
         </div>

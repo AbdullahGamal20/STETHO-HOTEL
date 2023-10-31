@@ -104,6 +104,12 @@
   color: #000 !important;
 }
 
+@media screen and (max-width:1200px){
+  .blog_content{
+    grid-template-columns: repeat(2 , 1fr) !important;
+  }
+}
+
 @media screen and (max-width:768px) {
   .blog_content{
     grid-template-columns: 1fr;

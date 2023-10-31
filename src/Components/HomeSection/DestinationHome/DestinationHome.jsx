@@ -10,7 +10,7 @@ function DestinationHome() {
             <h1>Most Popular Destination</h1>
             <div className="line"></div>
           </div>
-          <div className="contnet">
+          <div className="content">
             <AllItem />
           </div>
         </div>
